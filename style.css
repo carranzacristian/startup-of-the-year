@@ -15,10 +15,6 @@ h1{
 	font-size: 3rem;
 	color: #e2dbdb;
 }
-strong::selection{
-	color: #fff;
-	background-color: #ee4b08;
-}
 .buffer{
 	height: 10rem;
 }
@@ -48,4 +44,9 @@ hr{
 
 .btn-xl{
 	padding: 1rem 2rem;
+}
+
+strong::selection{
+	color: #fff;
+	background-color: #ee4b08;
 }
