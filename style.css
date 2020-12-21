@@ -15,7 +15,7 @@ h1{
 	font-size: 3rem;
 	color: #e2dbdb;
 }
-h1::selection{
+strong::selection{
 	color: #fff;
 	background-color: #ee4b08;
 }
