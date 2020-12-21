@@ -15,7 +15,10 @@ h1{
 	font-size: 3rem;
 	color: #e2dbdb;
 }
-
+p::selection{
+	color: #fff;
+	background-color: #ee4b08;
+}
 .buffer{
 	height: 10rem;
 }
